@@ -63,7 +63,7 @@ desktop.ini
 
 # Project specific
 *.jpg
-#*.jpeg
+*.jpeg
 *.png
 *.gif
 *.mp4
@@ -74,7 +74,7 @@ desktop.ini
 *.webm
 
 # Test Images
-#test_images/*
+test_images/*
 
 # Logs and local config
 *.log
